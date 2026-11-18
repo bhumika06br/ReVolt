@@ -221,3 +221,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python virtual environments
+venv/
+ml/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw dataset
+ml/dataset/raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw battery dataset
+ml/dataset/raw/
+ml/dataset/*.zip
+
+# Python virtual environments
+venv/
+ml/venv/
+
+# Python cache
+__pycache__/
+*.pyc
